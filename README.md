@@ -6,11 +6,11 @@ Este repositório contém os projetos desenvolvidos durante a **Imersão Dev 202
 
 | Dia | Projeto                             | Descrição                                                                 |
 |-----|-------------------------------------|---------------------------------------------------------------------------|
-| 1   | Conversor de Moeda                  | Conversor simples entre Real, Dólar, Euro, Bitcoin etc.                  |
-| 2   | Calculadora de Média                | Calcula média de notas e retorna se o aluno está aprovado ou não.       |
-| 3   | Mentalista                          | Jogo de adivinhação de número aleatório.                                 |
-| 4   | Tabela de Classificação             | Ranking de jogadores com pontuação dinâmica.                             |
-| 5   | Super Trunfo                        | Jogo de cartas estilo "Super Trunfo" com atributos customizados.        |
+| 1   | Conversor de Moeda                  | Conversor simples entre Euro e Reais.                                     |
+| 2   | Pedra Papel ou Tesoura              | Jogue contra o PC e veja quem vence!                                      |
+| 3   | Mentalista                          | Pise no piso correto e ganhe o game!                                      |
+| 4   | Força e Poder                       | Escolha 3 personagens, vamos ver se são fortes!                           |
+| 5   | Super Trunfo                        | Jogo de perguntas e respostas Pokémon.                                    |
 
 ## 🛠️ Tecnologias Utilizadas
 
