@@ -11,7 +11,7 @@ Este repositório contém os projetos desenvolvidos durante a **Imersão Dev 202
 | 3   | Mentalista                          | Jogo de adivinhação de número aleatório.                                 |
 | 4   | Tabela de Classificação             | Ranking de jogadores com pontuação dinâmica.                             |
 | 5   | Super Trunfo                        | Jogo de cartas estilo "Super Trunfo" com atributos customizados.        |
-| ... | ...                                 | Outros projetos serão adicionados conforme o evento avança.             |
+
 
 ## 🛠️ Tecnologias Utilizadas
 
