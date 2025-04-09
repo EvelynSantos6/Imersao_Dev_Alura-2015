@@ -4,7 +4,6 @@ center fixed;
 background-size: cover;
 font-family: "Gabarito", sans-serif;
 margin: 60px;
-
 }
 
 .logo {
@@ -34,7 +33,12 @@ box-shadow: 0 0 5px #19caca;
 
 /* Títulos e textos */
 h2, p {
-color: rgb(119, 9, 69);
+background-color: #3bd858; /* Exemplo: marrom escuro */
+color: white;             /* Cor do texto */
+border: double;          
+padding: 10px 600px;
+border-radius: 10px;       
+font-size: 25px;
 }
 
 /* Estrutura do questionário */
@@ -57,7 +61,7 @@ gap: 0px;
 
 /* Estilo da pergunta */
 .pergunta {
-font-weight: 600;
+font-weight: 800;
 color: white;
 }
 
@@ -78,19 +82,19 @@ gap: 5px;
 
 /* Botões de resposta */
 .botao-resposta {
-width: 40%;
+width: 70%;
 height: 2.5rem;
 text-align: center;
 padding: 5px;
 border: none;
 cursor: pointer;
-background: #eea803;
-color: rgb(15, 14, 14);
+background: #ca3333;
+color: rgb(255, 255, 255);
 
 }
 
 .botao-resposta:hover {
-background: #e4f802;
+background: #a369e6;
 font-weight: 600;
 }
 

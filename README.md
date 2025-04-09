@@ -12,7 +12,6 @@ Este repositório contém os projetos desenvolvidos durante a **Imersão Dev 202
 | 4   | Tabela de Classificação             | Ranking de jogadores com pontuação dinâmica.                             |
 | 5   | Super Trunfo                        | Jogo de cartas estilo "Super Trunfo" com atributos customizados.        |
 
-
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5
